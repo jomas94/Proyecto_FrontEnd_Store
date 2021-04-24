@@ -25,6 +25,8 @@ body{
     background-color: var(--primario);
     font-size: 1.6rem;
     line-height: 1.5;
+    max-width: 90%;
+    margin: 0 auto;
 
 }
 
@@ -127,10 +129,6 @@ h3{
     
 }
 
-
-.producto__informacion{
-
-}
 
 .producto__nombre{
     font-size: 4rem;
